@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qxZlw3TRrk6zFoiEg2QDp1sLVf8Kq9z2W7VICq5XKO4ZlpX6dEnjcQLCoxOpgShc4tTSVIxEDcgrbGwQ9GbW7Q==",
+  "success": true,
+  "projectFilePath": "/Users/mistral/Projects/20210929Angular/20210929Angular/20210929Angular.csproj",
+  "expectedPackageFiles": [
+    "/Users/mistral/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/5.0.10/microsoft.aspnetcore.spaservices.extensions.5.0.10.nupkg.sha512",
+    "/Users/mistral/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/mistral/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/mistral/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/mistral/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
